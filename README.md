@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
+
 
 ### Hi there 👋
 
 ---
 ### :man_technologist: About Me :
-I am a Back End Python Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+### I am a Back End Python Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 ### - 🌱  Exploring the mathematics of Gradient descent in Neural Networks
 ### - ⚡ In my free time, I write python code for neural networks
 
