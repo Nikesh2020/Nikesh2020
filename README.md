@@ -15,7 +15,7 @@
 ### - 🔭 I’m currently working on finishing my foundation BSc in Software Engineering @ HyperionDev
 ### - 🌱 I’m currently learning HTML and CSS
 ### - 🤔 I’m looking for employment opportunities
-### - ⚡ Fun fact: I have a masters dergress in Electronic and Electrical Engineering
+### - ⚡ Fun fact: I have a masters degree in Electronic and Electrical Engineering
 ### - 💬 Ask me about anything
 
 ### How to reach me: ([my-linkedin-url](https://www.linkedin.com/in/nikesh-chavda-b800ab52/))
